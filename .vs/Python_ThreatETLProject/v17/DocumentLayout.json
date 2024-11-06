@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a205722\\OneDrive - REC Silicon, Inc\\REC Work Notes\\Personal Work\\Python Work\\Python_ThreatETLProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02AE27F-80E6-4358-BAAA-9F73445590A0}|Python_ThreatETLProject.pyproj|C:\\Users\\a205722\\OneDrive - REC Silicon, Inc\\REC Work Notes\\Personal Work\\Python Work\\Python_ThreatETLProject\\testing.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A02AE27F-80E6-4358-BAAA-9F73445590A0}|Python_ThreatETLProject.pyproj|solutionrelative:testing.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02AE27F-80E6-4358-BAAA-9F73445590A0}|Python_ThreatETLProject.pyproj|C:\\Users\\a205722\\OneDrive - REC Silicon, Inc\\REC Work Notes\\Personal Work\\Python Work\\Python_ThreatETLProject\\extract_CVE_csv.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A02AE27F-80E6-4358-BAAA-9F73445590A0}|Python_ThreatETLProject.pyproj|solutionrelative:extract_CVE_csv.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testing.py",
+              "DocumentMoniker": "C:\\Users\\a205722\\OneDrive - REC Silicon, Inc\\REC Work Notes\\Personal Work\\Python Work\\Python_ThreatETLProject\\testing.py",
+              "RelativeDocumentMoniker": "testing.py",
+              "ToolTip": "C:\\Users\\a205722\\OneDrive - REC Silicon, Inc\\REC Work Notes\\Personal Work\\Python Work\\Python_ThreatETLProject\\testing.py",
+              "RelativeToolTip": "testing.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-06T18:10:41.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "extract_CVE_csv.py",
+              "DocumentMoniker": "C:\\Users\\a205722\\OneDrive - REC Silicon, Inc\\REC Work Notes\\Personal Work\\Python Work\\Python_ThreatETLProject\\extract_CVE_csv.py",
+              "RelativeDocumentMoniker": "extract_CVE_csv.py",
+              "ToolTip": "C:\\Users\\a205722\\OneDrive - REC Silicon, Inc\\REC Work Notes\\Personal Work\\Python Work\\Python_ThreatETLProject\\extract_CVE_csv.py",
+              "RelativeToolTip": "extract_CVE_csv.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-05T23:12:45.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
